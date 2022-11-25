@@ -1,6 +1,0 @@
-git checkout main
-git fetch origin
-git pull origin main
-git add .
-git commit -m "How to be up to date in git"
-git push origin main
